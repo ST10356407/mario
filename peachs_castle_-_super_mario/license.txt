@@ -1,0 +1,11 @@
+Model Information:
+* title:	Peach's Castle - Super Mario
+* source:	https://sketchfab.com/3d-models/peachs-castle-super-mario-f609112d34b74fb99971b92ead5a07f0
+* author:	Luis13 (https://sketchfab.com/luis230799)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Peach's Castle - Super Mario" (https://sketchfab.com/3d-models/peachs-castle-super-mario-f609112d34b74fb99971b92ead5a07f0) by Luis13 (https://sketchfab.com/luis230799) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
